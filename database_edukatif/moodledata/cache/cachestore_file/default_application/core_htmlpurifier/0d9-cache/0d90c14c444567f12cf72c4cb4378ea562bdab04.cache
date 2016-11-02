@@ -1,0 +1,10 @@
+s:348:"<p>Upload the images, add the links and description for the carousel on the front page.</p>
+
+<p>Sample HTML for Slider Captions:</p>
+
+<pre>
+&lt;div class="span6 col-sm-6"&gt;
+&lt;h3&gt;Hand-crafted&lt;/h3&gt; &lt;h4&gt;pixels and code for the Moodle community&lt;/h4&gt;
+&lt;a href="#" class="submit"&gt;Please favorite our theme!&lt;/a&gt;
+</pre>
+";

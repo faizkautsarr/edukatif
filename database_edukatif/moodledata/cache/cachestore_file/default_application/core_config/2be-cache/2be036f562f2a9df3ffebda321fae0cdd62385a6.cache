@@ -1,0 +1,19 @@
+a:22:{s:7:"android";s:0:"";s:5:"apple";s:0:"";s:9:"brandlogo";s:27:"/logo_edukatifid_header.png";s:4:"ceop";s:0:"";s:9:"copyright";s:0:"";s:9:"customcss";s:328:".navbar .brand {
+    background-size: 27.15px 34.5px;
+    margin-left: 14px;
+    padding-left: 0px;
+}
+
+#page-footer {
+    border: 0;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1) inset;
+    background-color: #1b3257;
+    color: #ffffff;
+        text-shadow: 0px 0px
+    
+}
+
+
+.footerlinks {
+    display: none;
+}";s:10:"disclaimer";s:157:"<p>for inquiry or collaboration contact through:&nbsp;<u>contact@edukatif.id.</u><br></p><p>Copyright © 2016. All rights reserved.</p><p><br></p><p><br></p>";s:8:"facebook";s:0:"";s:6:"flickr";s:0:"";s:12:"generalalert";s:0:"";s:10:"googleplus";s:0:"";s:9:"instagram";s:0:"";s:8:"linkedin";s:0:"";s:9:"maincolor";s:7:"#1b3257";s:9:"pinterest";s:0:"";s:9:"shortname";s:1:"1";s:8:"snapchat";s:0:"";s:7:"twitter";s:0:"";s:7:"version";s:10:"2016081900";s:7:"website";s:0:"";s:9:"wikipedia";s:0:"";s:7:"youtube";s:0:"";}

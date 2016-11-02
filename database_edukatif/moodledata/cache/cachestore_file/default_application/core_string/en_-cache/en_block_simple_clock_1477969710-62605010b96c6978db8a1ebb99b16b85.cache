@@ -1,0 +1,28 @@
+a:28:{s:10:"after_noon";s:2:"pm";s:11:"before_noon";s:2:"am";s:15:"clock_separator";s:1:":";s:19:"clock_title_default";s:5:"Clock";s:23:"config_clock_visibility";s:14:"Visible clocks";s:28:"config_clock_visibility_help";s:174:"<p>With this setting, you can control whether the user will see:</p>
+<ul>
+    <li>time on the server,</li>
+    <li>time on their own machine, or</li>
+    <li>both.</li>
+</ul>";s:13:"config_header";s:11:"Show header";s:18:"config_header_help";s:467:"
+<p>With this setting, you can control whether the block header, including the title, will be shown.</p>
+<p style="background:yellow;border:3px dashed black;padding:10px;"><strong>Note</strong><br />
+While "Editing" is turned on, the header of the block will be shown to teachers/administrators.
+When "Editing" is turned off, the header will be hidden.
+While this setting set to No, students will not see the header, regardless of whether "Editing" is on or off.</p>
+";s:12:"config_icons";s:10:"Show icons";s:17:"config_icons_help";s:203:"
+<p>With this setting, you can control whether icons are shown next to each clock label.</p>
+<p>The site icon is shown next to the "server" label. The user's icon image is shown next to their clock.</p>
+";s:10:"config_day";s:13:"Show day name";s:15:"config_day_help";s:119:"
+<p>Showing the day name adds additional information for students who may be in a timezone a day earlier or later.</p>
+";s:14:"config_seconds";s:12:"Show seconds";s:19:"config_seconds_help";s:507:"
+<p>Showing seconds will show users the time including seconds on all visible clocks.</p>
+<p style="background:yellow;border:3px dashed black;padding:10px;"><strong>Warning</strong><br />
+The initial time shown is the time when the page was created.
+When this page content arrives at the user's browser, the time difference will include a delay
+(usually a few seconds). This is often acceptable as any interaction with Moodle will
+involve a delay, but the delay will be more evident with seconds shown.</p>
+";s:23:"config_show_both_clocks";s:36:"Show clocks for both server and user";s:24:"config_show_server_clock";s:26:"Show clock for server only";s:22:"config_show_user_clock";s:24:"Show clock for user only";s:12:"config_title";s:15:"Alternate title";s:17:"config_title_help";s:187:"
+<p>This setting allows the block title to be changed.</p>
+<p>If no alternate is provided, the default title is used.</p>
+<p>If the block header is hidden, the title will not appear.</p>
+";s:28:"config_twenty_four_hour_time";s:14:"Show 24hr time";s:9:"day_names";s:27:"Sun,Mon,Tue,Wed,Thu,Fri,Sat";s:19:"javascript_disabled";s:65:"To allow the clocks to update, enable JavaScript in your browser.";s:7:"loading";s:10:"Loading...";s:10:"pluginname";s:12:"Simple Clock";s:6:"server";s:6:"Server";s:26:"simple_clock:myaddinstance";s:50:"Add a new Simple Clock block to the My Moodle page";s:24:"simple_clock:addinstance";s:28:"Add a new Simple Clock block";s:3:"you";s:3:"You";}

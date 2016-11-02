@@ -1,0 +1,11 @@
+s:506:"<p>You can configure links to be shown under a tools menu (in main navigation bar).
+ The format is similar to that used for Moodle custom menus but allows you to add fa icons to menu items:</p>
+
+<pre>
+&lt;span class="fa fa-video-camera"&gt;&lt;/span&gt; Record Screen|http://google.co.uk|Record Screen
+&lt;span class="fa fa-picture-o"&gt;&lt;/span&gt; ThinkStock|http://google.co.uk|ThinkStock
+&lt;span class="fa fa-clock-o"&gt;&lt;/span&gt; Exam Clock|http://google.co.uk|Exam Clock
+</pre>
+
+<p><br /></p>
+";
