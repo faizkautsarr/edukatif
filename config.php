@@ -18,7 +18,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://localhost/edukatif';
-$CFG->dataroot  = 'D:\\xampp\\moodledata';
+$CFG->dataroot  = 'D:\xampp\htdocs\edukatif\database_edukatif\moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
